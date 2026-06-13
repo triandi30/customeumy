@@ -32,7 +32,7 @@
         // Load external CSS
         var extCss = document.createElement('link');
         extCss.rel = 'stylesheet';
-        extCss.href = 'https://cdn.jsdelivr.net/gh/triandi30/triandiumycss@main/jrc.css';
+        extCss.href = 'https://cdn.jsdelivr.net/gh/triandi30/triandiumycss@main/ok.css';
         document.head.appendChild(extCss);
 
         var articles = document.querySelectorAll('.obj_article_summary');
